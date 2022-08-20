@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yasir Nawaz
 - 👀 I’m interested in web development.
 - 🌱 I’m currently learning HTML, CSS, Java Script.
-- 📫 Ypu can reach me y451rmahar@gmail.com.
+- 📫 You can reach me y451rmahar@gmail.com.
 -   :)
 
 <!---
