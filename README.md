@@ -28,4 +28,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasir2002&" alt="yasir2002" /></p>
 
-[![MasterHead](https://bestanimations.com/media/office/181922566office-animated-gif-20.gif)]()
+[![MasterHead](https://media4.giphy.com/headers/levberry/wWIVadS9YYBK.gif)]()
