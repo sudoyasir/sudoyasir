@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/yasirnawaz__" target="blank"><img src="https://img.shields.io/twitter/follow/yasirnawaz__?logo=twitter&style=for-the-badge" alt="yasirnawaz__" /></a> </p>
 
-- 🌱 I’m currently learning **PHP**
+- 🌱 I’m currently learning backend web development.
 
 - 📫 How to reach me **y451rmahar@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Get in touch  with me here:</h3>
 <p align="left">
 <a href="https://twitter.com/yasirnawaz__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yasirnawaz__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yasirnawaz24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yasirnawaz24" height="30" width="40" /></a>
