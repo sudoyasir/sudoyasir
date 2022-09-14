@@ -1,4 +1,3 @@
-[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)]()
 <h1>Hi! I'm Yasir Nawaz.</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
@@ -27,5 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&locale=en" alt="yasir2002" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasir2002&" alt="yasir2002" /></p>
-
-[![MasterHead](https://media4.giphy.com/headers/levberry/wWIVadS9YYBK.gif)]()
