@@ -1,5 +1,5 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)]()
-<h1>Hi! My I'm Yasir Nawaz.</h1>
+<h1>Hi! I'm Yasir Nawaz.</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
