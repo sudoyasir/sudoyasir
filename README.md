@@ -1,5 +1,26 @@
 [![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header-wide.gif)]()
-<h1 align="center">Hi 👋, I'm Yasir Nawaz</h1>
+<span class="text sec-text"></span>
+<script>
+        const text = document.querySelector(".sec-text");
+
+        const textLoad = () => {
+            setTimeout(() => {
+                text.textContent = "SUBTRACT";
+            }, 0);
+            setTimeout(() => {
+                text.textContent = "MULTIPLY";
+            }, 4000);
+            setTimeout(() => {
+                text.textContent = "DIVIDE";
+            }, 8000);
+            setTimeout(() => {
+                text.textContent = "ADD";
+            }, 12000);
+        }
+
+        textLoad();
+        setInterval(textLoad, 16000);
+    </script>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
 <img src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
