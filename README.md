@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NodeJS, React**
 
-- 💬 Ask me about **HTML5, CSS3, BOOTSTRAP, JAVASCRIPT**
+- 💬 Ask me about **HTML5, CSS3, BOOTSTRAP, JAVASCRIPT, REACT JS**
 
 - 📫 How to reach me **y451rmahar@gmail.com**
 
