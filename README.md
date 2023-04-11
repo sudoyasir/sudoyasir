@@ -17,8 +17,7 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://data.typeracer.com/misc/badge?user=yasir_2402)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=yasir2002&icon=0&color=0)](https://visitcount.itsvg.in)
-![](https://data.typeracer.com/misc/badge?user=yasir_2402)
-https://data.typeracer.com/misc/badge?user=yasir_2402
