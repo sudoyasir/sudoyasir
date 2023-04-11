@@ -10,9 +10,6 @@
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=stfuyasir)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## ⌨️ Typeracer Stats
 ![](https://data.typeracer.com/misc/badge?user=yasir_2402)
 
