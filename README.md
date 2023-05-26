@@ -89,6 +89,7 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
 <a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
     <img src="https://img.shields.io/badge/Twitter-stfuyasir-lightgrey" height="30px" alt="Twitter Badge"/>
 </a>
+<br><br>
    <p align="center">
     <i>"Life would be more easy if I had source code."</i><br>
       <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="100px">
