@@ -89,8 +89,8 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
 <a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
     <img src="https://img.shields.io/badge/Twitter-stfuyasir-lightgrey" height="30px" alt="Twitter Badge"/>
 </a>
-<!--    <p align="center">
+   <p align="center">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
-      <img alt="Light" src="https://github.com/AbyerAli/myContent/blob/main/5Mys.gif" width="80px" height="140px">
+      <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="80px" height="140px">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
-  </p>        -->
+  </p>       
