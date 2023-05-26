@@ -90,6 +90,6 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
     <img src="https://img.shields.io/badge/Twitter-stfuyasir-lightgrey" height="30px" alt="Twitter Badge"/>
 </a>
    <p align="center">
-    <i>"Life would be more easy if I had source code."</i>
-      <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="80px">
+    <i>"Life would be more easy if I had source code."</i><br>
+      <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="100px">
   </p>       
