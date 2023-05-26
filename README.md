@@ -55,8 +55,8 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
   
   ### Some of the classics i'm familiar with:
   <div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="c++" alt="c++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   </div> 
@@ -83,10 +83,10 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
 > ### PING ME 
 > **So, if you're ever in need of some web dev wizardry, or just want to geek out over tech, feel free to hit me up!**
 
-<a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
+<a href="mailto:y451rmahar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-y451rmahar%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
 </a>
-<a href="https://i.pinimg.com/564x/2a/d6/60/2ad660d32ef1eca82bccc67e1ed9d37b.jpg">
+<a href="https://www.twitter.com/stfuyasir">
     <img src="https://img.shields.io/badge/Twitter-stfuyasir-lightgrey" height="30px" alt="Twitter Badge"/>
 </a>
 <br><br>
