@@ -91,6 +91,6 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
 </a>
    <p align="center">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
-      <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="80px" height="140px">
+      <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="80px">
       <img alt="Dark" src="https://github.com/AbyerAli/myContent/blob/main/fireBlue.gif" width="60px" height="100px">
   </p>       
