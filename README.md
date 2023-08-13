@@ -80,14 +80,11 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
 
 <hr />
 
-> ### PING ME 
-> **So, if you're ever in need of some web dev wizardry, or just want to geek out over tech, feel free to hit me up!**
+> ### FOLLOW ME 
+> **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**
 
-<a href="mailto:y451rmahar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-y451rmahar%40gmail.com-lightgrey" height="30px" alt="gmail Badge"/>
-</a>
-<a href="https://www.twitter.com/stfuyasir">
-    <img src="https://img.shields.io/badge/Twitter-stfuyasir-lightgrey" height="30px" alt="Twitter Badge"/>
+<a href="https://www.instagram.com/logicwisetips/">
+    <img src="https://img.shields.io/badge/Instagram-%40LogicWiseTips-lightgrey" height="30px" alt="gmail Badge"/>
 </a>
 <br><br>
    <p align="center">
