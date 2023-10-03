@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="he ader" align="center">
     <img src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/coding.gif" alt="Yasir Nawaz"/>
     <div id="badges">
     <a href="[https://www.linkedin.com/in/ali-abyer-nasir-05410a202/](https://www.linkedin.com/in/yasirnawaz24/)">
@@ -11,12 +11,12 @@
   <img src="https://komarev.com/ghpvc/?username=yasir2002&style=flat-square&color=blue" alt=""/>
   </div>
   
-  > ### ABOUT ME:
+  > ### میرے بارے میں:
 
-With the power of IT coursing through my veins i am able to do full stack development using MERN technologies.
-I may not be able to configure a network with my eyes closed just yet, but i'm definitely on my way to becoming a bash master. When i'm not busy googling Linux commands, you can find me daydreaming about the perfect terminal setup (who needs a desktop environment, anyway?).
+انفارمیشن ٹکنالوجی کی طاقت سے میری رگوں میں گھوم رہی ہے میں MERN ٹیکنالوجیز کا استعمال کرتے ہوئے مکمل اسٹیک ڈویلپمنٹ کرنے کے قابل ہوں۔
+میں ابھی آنکھیں بند کرکے نیٹ ورک کنفیگر نہیں کر سکتا ہوں، لیکن میں یقینی طور پر ایک باش ماسٹر بننے کے راستے پر ہوں۔ جب میں لینکس کمانڈز کو گوگل کرنے میں مصروف نہیں ہوں، تو آپ مجھے کامل ٹرمینل سیٹ اپ کے بارے میں دن میں خواب دیکھتے ہوئے پا سکتے ہیں (بہرحال، کسے ڈیسک ٹاپ ماحول کی ضرورت ہے؟)
   
-  > ### MORE ABOUT ME:
+  > ### میرے بارے میں اور کچھ:
   
   ```js
   const yasir = {
@@ -53,7 +53,7 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
    -->
 <hr />
   
-  ### Some of the classics i'm familiar with:
+  ### کچھ کلاسک جن سے میں واقف ہوں۔:
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
@@ -61,7 +61,7 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   </div> 
   
-  ### :hammer_and_wrench: Other languages and Tools :
+  ### :hammer_and_wrench: دوسری زبانیں اور ٹولز :
   
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -80,8 +80,9 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
 
 <hr />
 
-> ### FOLLOW ME 
-> **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**
+> ### مجھے فالو کریں۔ (FOLLOW ME)
+> **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**<BR><BR>
+>**کوڈنگ اپڈیٹس اور روزانہ کی ترغیب کے لیے مجھے انسٹاگرام پر فالو کریں۔ میں روزانہ حیرت انگیز مواد اپ لوڈ کر رہا ہوں۔**
 
 <a href="https://www.instagram.com/logicwisetips/">
     <img src="https://img.shields.io/badge/Instagram-%40LogicWiseTips-lightgrey" height="30px" alt="gmail Badge"/>
@@ -90,4 +91,10 @@ I may not be able to configure a network with my eyes closed just yet, but i'm d
    <p align="center">
     <i>"Life would be more easy if I had source code."</i><br>
       <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="100px">
-  </p>       
+  </p>     
+  
+## **میرے پاس کوڈ لکھنے کے ساتھ سب کچھ ہے۔😍**
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&border_radius=4&locale=ur_PK&card_width=539)](https://git.io/streak-stats)
