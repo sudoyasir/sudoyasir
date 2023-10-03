@@ -10,13 +10,19 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=yasir2002&style=flat-square&color=blue" alt=""/>
   </div>
-  
-  > ### میرے بارے میں:
 
-انفارمیشن ٹکنالوجی کی طاقت سے میری رگوں میں گھوم رہی ہے میں MERN ٹیکنالوجیز کا استعمال کرتے ہوئے مکمل اسٹیک ڈویلپمنٹ کرنے کے قابل ہوں۔
-میں ابھی آنکھیں بند کرکے نیٹ ورک کنفیگر نہیں کر سکتا ہوں، لیکن میں یقینی طور پر ایک باش ماسٹر بننے کے راستے پر ہوں۔ جب میں لینکس کمانڈز کو گوگل کرنے میں مصروف نہیں ہوں، تو آپ مجھے کامل ٹرمینل سیٹ اپ کے بارے میں دن میں خواب دیکھتے ہوئے پا سکتے ہیں (بہرحال، کسے ڈیسک ٹاپ ماحول کی ضرورت ہے؟)
+<div lang="ur">
   
-  > ### میرے بارے میں اور کچھ:
+  ### میرے بارے میں:
+ ٹکنالوجی کی طاقت سے میری رگوں میں گھوم رہی ہے میں <b>MERN</b> ٹیکنالوجیز کا استعمال کرتے ہوئے مکمل اسٹیک ڈویلپمنٹ کرنے کے قابل ہوں۔
+میں ابھی آنکھیں بند کرکے نیٹ ورک کنفیگر نہیں کر سکتا ہوں، لیکن میں یقینی طور پر ایک باش ماسٹر بننے کے راستے پر ہوں۔ جب میں لینکس کمانڈز کو گوگل کرنے میں مصروف نہیں ہوں، تو آپ مجھے کامل ٹرمینل سیٹ اپ کے بارے میں دن میں خواب دیکھتے ہوئے پا سکتے ہیں (بہرحال، کسے ڈیسک ٹاپ ماحول کی ضرورت ہے؟)
+
+</div>  
+
+<div lang="ur">
+
+  ### میرے بارے میں اور کچھ:
+</div>
   
   ```js
   const yasir = {
@@ -53,7 +59,11 @@
    -->
 <hr />
   
+
+<div lang="ur">
+
   ### کچھ کلاسک جن سے میں واقف ہوں۔:
+</div>
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
@@ -61,8 +71,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
   </div> 
   
+<div lang="ur">
+
   ### :hammer_and_wrench: دوسری زبانیں اور ٹولز :
-  
+</div>  
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
@@ -80,9 +92,17 @@
 
 <hr />
 
-> ### مجھے فالو کریں۔ (FOLLOW ME)
-> **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**<BR><BR>
+
+<div lang="ur">
+
+### مجھے فالو کریں۔ (FOLLOW ME)
+</div>
+
+> **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**
+<div lang="ur">
+
 >**کوڈنگ اپڈیٹس اور روزانہ کی ترغیب کے لیے مجھے انسٹاگرام پر فالو کریں۔ میں روزانہ حیرت انگیز مواد اپ لوڈ کر رہا ہوں۔**
+</div>
 
 <a href="https://www.instagram.com/logicwisetips/">
     <img src="https://img.shields.io/badge/Instagram-%40LogicWiseTips-lightgrey" height="30px" alt="gmail Badge"/>
@@ -92,9 +112,11 @@
     <i>"Life would be more easy if I had source code."</i><br>
       <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="100px">
   </p>     
+
+<div lang="ur">
   
 ## **میرے پاس کوڈ لکھنے کے ساتھ سب کچھ ہے۔😍**
-
-<div align="center">
+</div>
+<div align="center" lang="ur">
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&border_radius=4&locale=ur_PK&card_width=539)](https://git.io/streak-stats)
