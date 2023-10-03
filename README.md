@@ -104,9 +104,11 @@
 >**کوڈنگ اپڈیٹس اور روزانہ کی ترغیب کے لیے مجھے انسٹاگرام پر فالو کریں۔ میں روزانہ حیرت انگیز مواد اپ لوڈ کر رہا ہوں۔**
 </div>
 
+<div align="center">
 <a href="https://www.instagram.com/logicwisetips/">
-    <img src="https://img.shields.io/badge/Instagram-%40LogicWiseTips-lightgrey" height="30px" alt="gmail Badge"/>
+    <img src="https://img.shields.io/badge/Instagram-%40LogicWiseTips-orange" height="30px" alt="gmail Badge"/>
 </a>
+</div>
 <br><br>
    <p align="center">
     <i>"Life would be more easy if I had source code."</i><br>
@@ -115,7 +117,7 @@
 
 <div lang="ur">
   
-## **میرے پاس کوڈ لکھنے کے ساتھ سب کچھ ہے۔😍**
+## **میرے ماضی کے اعدادوشمار😍**
 </div>
 <div align="center" lang="ur">
 
