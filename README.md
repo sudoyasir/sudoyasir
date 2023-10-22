@@ -122,24 +122,19 @@
 </div>
 <div align="center" lang="ur">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
 
 <div style="display: flex; align-items: center;">
 <div>
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true" />
-</picture>
+
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 </div>
 <div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yasir2002&layout=pie&theme=dracula)](https://github.com/yasir2002)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=440 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula" />
+</a>
 </div>
 </div>
