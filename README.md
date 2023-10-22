@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=yasir2002&style=flat-square&color=blue" alt=""/>
   </div>
 
-<div lang="ur">
+<div lang="ur"> 
   
   ### میرے بارے میں:
  ٹکنالوجی کی طاقت میری رگوں میں گھوم رہی ہے میں <b>MERN</b> ٹیکنالوجیز کا استعمال کرتے ہوئے فل اسٹیک ڈویلپمنٹ کرنے کے قابل ہوں۔
