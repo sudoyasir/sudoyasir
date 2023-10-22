@@ -1,5 +1,6 @@
-<div id="he ader" align="center">
-    <img src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/coding.gif" alt="Yasir Nawaz"/>
+[![An image of @yasir2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasir2002)](https://holopin.io/@yasir2002)
+
+<div id="header" align="center">
     <div id="badges">
     <a href="[https://www.linkedin.com/in/ali-abyer-nasir-05410a202/](https://www.linkedin.com/in/yasirnawaz24/)">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
