@@ -127,13 +127,13 @@
 <div style="display: flex; align-items: center;">
 <div>
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![](https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/yasir2002)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://github.com/yasir2002)
 </div>
 <div>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/yasir2002">
   <img height=440 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula" />
 </a>
 </div>
