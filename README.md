@@ -44,21 +44,6 @@
       currentFocus: "learning how to write code with my eyes closed",
   };
   ```
-<!--   > ### MORE ABOUT ME 💬:
-  > 
-  > #### ➜ Learning
-  > >
-  > > - Data Structures & Algorithms
-  > > - Web technologies
-  > > - UNIX like operating systems
-  > 
-  > #### ➜ Hobbies
-  > >
-  > > - history books, reels
-  > > - Music
-  > > - Netflix 
-   -->
-<hr />
   
 
 <div lang="ur">
