@@ -78,11 +78,7 @@ With the power of technology coursing through my veins I am able to do full stac
 
 <hr />
 
-
-<div lang="ur">
-
 ### Follow Me: 🥁
-</div>
 
 > **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**
 
@@ -96,24 +92,24 @@ With the power of technology coursing through my veins I am able to do full stac
     <i>"Life would be more easy if I had source code."</i><br>
       <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="100px">
   </p>     
+<hr />
 
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 1;">
+<div align="center" style="display: flex; align-items: center; justify-content: center;">
+  <div style="margin-right: 10px;">
     <a href="https://github.com/yasir2002">
-      <img src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub Stats" />
+      <img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub Stats" />
     </a>
   </div>
-  <div style="flex: 1;">
+  <div style="margin-right: 10px;">
     <a href="https://github.com/yasir2002">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      <img style="max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </a>
+  </div>
+  <div>
+    <a href="https://github.com/yasir2002">
+      <img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula" />
     </a>
   </div>
 </div>
 
 
-<a href="https://github.com/yasir2002">
-  <img height=440 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula" />
-</a>
-</div>
-</div>
