@@ -99,13 +99,18 @@ With the power of technology coursing through my veins I am able to do full stac
 
 
 <div style="display: flex; align-items: center;">
-<div>
-
-[![](https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only)](https://github.com/yasir2002)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D)](https://github.com/yasir2002)
+  <div style="flex: 1;">
+    <a href="https://github.com/yasir2002">
+      <img src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub Stats" />
+    </a>
+  </div>
+  <div style="flex: 1;">
+    <a href="https://github.com/yasir2002">
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+    </a>
+  </div>
 </div>
-<div>
+
 
 <a href="https://github.com/yasir2002">
   <img height=440 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula" />
