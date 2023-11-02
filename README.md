@@ -107,7 +107,7 @@ With the power of technology coursing through my veins I am able to do full stac
   </div>
   <div>
     <a href="https://github.com/yasir2002">
-      <img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=dracula" />
+      <img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir2002&langs_count=15&layout=pie&theme=dracula" />
     </a>
   </div>
 </div>
