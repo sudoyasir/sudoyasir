@@ -14,15 +14,12 @@
  
 <div>  
   
-### About Me: 🧔 
+## About Me: 🧔 
 With the power of technology coursing through my veins I am able to do full stack development using MERN technologies. I can't blindly configure a network yet, but I'm definitely on my way to becoming a good programmer. When I'm not busy googling Linux commands, you can find me daydreaming about beautiful terminal setups (who needs a desktop setup, anyway?).
 
 </div>  
 
-<div lang="ur">
-
-### More About Me: 😄 
-</div>
+## More About Me: 😄 
   
   ```js
   const yasir = {
@@ -50,7 +47,7 @@ With the power of technology coursing through my veins I am able to do full stac
  
 </div>  
 
-### Languages I'm familiar with: 🚀
+## Languages I'm familiar with: 🚀
 
 <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -67,7 +64,7 @@ With the power of technology coursing through my veins I am able to do full stac
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
- ### Some Classics I'm Familiar with: ⚡
+ ## Some Classics I'm Familiar with: ⚡
  
   <div align="left">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
@@ -78,7 +75,7 @@ With the power of technology coursing through my veins I am able to do full stac
 
 <hr />
 
-### Follow Me: 🥁
+## Follow Me: 🥁
 
 > **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**
 
