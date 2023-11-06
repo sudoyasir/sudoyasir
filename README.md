@@ -95,16 +95,15 @@ With the power of technology coursing through my veins I am able to do full stac
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <div>
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasir2002&theme=dracula" alt="GitHub Stats" />
+       
     </div>
   <div style="margin-right: 10px;">
     <a href="https://github.com/yasir2002">
-      <img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub Stats" />
     </a>
   </div>
   <div style="margin-right: 10px;">
     <a href="https://github.com/yasir2002">
-      <img style="max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
+      
     </a>
   </div>
   <div>
@@ -113,5 +112,17 @@ With the power of technology coursing through my veins I am able to do full stac
     </a>
   </div>
 </div>
+
+<table>
+    <tr>
+        <td>
+             <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasir2002&theme=dracula" alt="GitHub Stats" />
+        </td>
+    </tr>
+    <tr>
+        <td><img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula" alt="GitHub Stats" /></td>
+        <td><img style="max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
+    </tr>
+</table>
 
 
