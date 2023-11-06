@@ -105,13 +105,8 @@ With the power of technology coursing through my veins I am able to do full stac
         <td><img style="max-height: 200px;" src="https://github-readme-streak-stats.herokuapp.com?user=yasir2002&theme=dracula&hide_border=false&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></td>
     </tr>
     <tr width="50%">
-        <td>
+        <td colspan="2" align="center">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir2002&langs_count=15&layout=donut&theme=dracula" />
-        </td>
-        <td rowspan="3">
-            <img style="max-height: 200px; display: block; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=yasir2002&repo=yasir2002.github.io&theme=dracula" />
-            <img style="max-height: 200px; display: block; margin-bottom: 10px;" src="https://github-readme-stats.vercel.app/api/pin/?username=yasir2002&repo=the-blog-hub&theme=dracula" />
-            <img style="max-height: 200px; display: block;" src="https://github-readme-stats.vercel.app/api/pin/?username=yasir2002&repo=real-estate-fs&theme=dracula" />
         </td>
     </tr>
 </table>
