@@ -114,7 +114,7 @@ With the power of technology coursing through my veins I am able to do full stac
 </div>
 
 <table>
-    <tr>
+    <tr colspan="2">
         <td>
              <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasir2002&theme=dracula" alt="GitHub Stats" />
         </td>
