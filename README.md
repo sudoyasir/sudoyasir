@@ -95,7 +95,7 @@ With the power of technology coursing through my veins I am able to do full stac
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
     <div>
-        [![Yasir](https://github-readme-activity-graph.vercel.app/graph?username=yasir2002&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=yasir2002&theme=merko" alt="GitHub Stats" />
     </div>
   <div style="margin-right: 10px;">
     <a href="https://github.com/yasir2002">
