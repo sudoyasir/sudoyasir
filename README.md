@@ -94,6 +94,10 @@ With the power of technology coursing through my veins I am able to do full stac
 <hr />
 
 <div align="center" style="display: flex; align-items: center; justify-content: center;">
+    <div>
+        [![Harshal's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yasir2002&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+    </div>
   <div style="margin-right: 10px;">
     <a href="https://github.com/yasir2002">
       <img style="max-height: 200px;" src="https://github-readme-stats.vercel.app/api?username=yasir2002&show_icons=true&theme=dracula#gh-dark-mode-only" alt="GitHub Stats" />
