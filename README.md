@@ -106,7 +106,7 @@ With the power of technology coursing through my veins I am able to do full stac
     </tr>
     <tr width="50%">
         <td colspan="2" align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir2002&langs_count=15&layout=donut&theme=dracula" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasir2002&langs_count=15&layout=pie&theme=dracula" />
         </td>
     </tr>
 </table>
