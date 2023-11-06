@@ -34,9 +34,9 @@ With the power of technology coursing through my veins I am able to do full stac
           frontEnd: {
               framework: ["React"]
           },
-          devOps: ["AWS", "digitalocean", "spaces", "Linux🐧", "droplets", "S3Bucket", "SES", "EC2"],
-          databases: ["mongo", "MySql"],
-          misc: ["webScraping", "python", "solidjs", "figma", "chromeExtentions", "GNU linux"]
+          devOps: ["AWS", "digitalocean", "Linux🐧", "SES", "EC2"],
+          databases: ["MongoDB", "MySql"],
+          misc: ["figma", "chromeExtentions", "GNU linux"]
       },
       architecture: ["Static web application", "Single page applications"],
       currentFocus: "learning how to write code with my eyes closed",
