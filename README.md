@@ -1,4 +1,4 @@
-[![An image of @yasir2002's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yasir2002)](https://holopin.io/@yasir2002)
+[![An image of @yasir2002's Holopin badges](https://holopin.me/yasir2002)](https://holopin.io/@yasir2002)
 
 <div id="header" align="center">
     <div id="badges">
@@ -6,10 +6,10 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://github.com/yasir2002">
-      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="github Badge"/>
+      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=yasir2002&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=yasir2002&style=flat-square&color=blue" alt="GitHub Profile Views"/>
   </div>
  
 <div>  
@@ -34,6 +34,7 @@ With the power of technology coursing through my veins I am able to do full stac
           frontEnd: {
               framework: ["React"]
           },
+          mobile: ["React Native"],
           devOps: ["AWS", "digitalocean", "Linux🐧", "SES", "EC2"],
           databases: ["MongoDB", "MySql"],
           misc: ["figma", "chromeExtentions", "GNU linux"]
@@ -64,6 +65,8 @@ With the power of technology coursing through my veins I am able to do full stac
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="Android" **alt="Android" width="40" height="40"/>
+
 </div>
 
  ## Some Classics I'm Familiar with: ⚡
