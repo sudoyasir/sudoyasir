@@ -17,7 +17,7 @@
 ## About Me: 🧔 
 With the power of technology coursing through my veins I am able to do full stack development using MERN technologies. I can't blindly configure a network yet, but I'm definitely on my way to becoming a good programmer. When I'm not busy googling Linux commands, you can find me daydreaming about beautiful terminal setups (who needs a desktop setup, anyway?).
 
-[My Portfolio 💁](https://yasir2002.github.io)
+[Portfolio 💁](https://yasir2002.github.io)
 
 </div>  
 
@@ -25,8 +25,8 @@ With the power of technology coursing through my veins I am able to do full stac
   
   ```js
   const yasir = {
-      code: ["Javascript", "c++", "Node", "c#"],
-      askMeAbout: ["web dev", "tech", "daydreaming about code", "2D dreams with 3D screams"],
+      code: ["Javascript", "c++", "Node", "Shell", "Lua"],
+      askMeAbout: ["web dev", "tech", "daydreaming about code", "2D dreams with 3D screams", "Linux"],
       technologies: {
           backEnd: {
               js: ["Node (that talks back)", "Express"],
