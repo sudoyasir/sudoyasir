@@ -24,24 +24,30 @@ With the power of technology coursing through my veins I am able to do full stac
 ## More About Me: 😄 
   
   ```js
-  const yasir = {
-      code: ["Javascript", "c++", "Node", "Shell", "Lua"],
-      askMeAbout: ["web dev", "tech", "daydreaming about code", "2D dreams with 3D screams", "Linux"],
-      technologies: {
-          backEnd: {
-              js: ["Node (that talks back)", "Express"],
-          },
-          frontEnd: {
-              framework: ["React"]
-          },
-          mobile: ["React Native", "Expo"],
-          devOps: ["AWS", "digitalocean", "Linux🐧", "SES", "EC2"],
-          databases: ["MongoDB", "MySql"],
-          misc: ["figma", "GNU linux"]
-      },
-      architecture: ["Static web application", "Single page applications"],
-      currentFocus: "Learning how to write code with my eyes closed",
-  };
+const yasir = {
+  code: ["JavaScript", "C++", "Node.js", "Shell scripting", "Lua"],
+  askMeAbout: [
+    "web development",
+    "technology",
+    "daydreaming about code",
+    "2D dreams with 3D screams",
+    "Linux",
+  ],
+  technologies: {
+    backEnd: {
+      js: ["Node (talking back)", "Express"],
+    },
+    frontEnd: {
+      framework: ["React"],
+    },
+    mobile: ["React Native", "Expo"],
+    devOps: ["AWS", "DigitalOcean", "Linux🐧", "SES", "EC2"],
+    databases: ["MongoDB", "MySQL"],
+    misc: ["Figma", "GNU/Linux"],
+  },
+  architecture: ["Static web applications", "Single page applications"],
+  currentFocus: "Learning how to write code with my eyes closed",
+};
   ```
   
 
