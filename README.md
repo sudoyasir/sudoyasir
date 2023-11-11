@@ -37,10 +37,10 @@ With the power of technology coursing through my veins I am able to do full stac
           mobile: ["React Native"],
           devOps: ["AWS", "digitalocean", "Linux🐧", "SES", "EC2"],
           databases: ["MongoDB", "MySql"],
-          misc: ["figma", "chromeExtentions", "GNU linux"]
+          misc: ["figma", "GNU linux"]
       },
       architecture: ["Static web application", "Single page applications"],
-      currentFocus: "learning how to write code with my eyes closed",
+      currentFocus: "Learning how to write code with my eyes closed",
   };
   ```
   
