@@ -34,7 +34,7 @@ With the power of technology coursing through my veins I am able to do full stac
           frontEnd: {
               framework: ["React"]
           },
-          mobile: ["React Native"],
+          mobile: ["React Native", "Expo"],
           devOps: ["AWS", "digitalocean", "Linux🐧", "SES", "EC2"],
           databases: ["MongoDB", "MySql"],
           misc: ["figma", "GNU linux"]
