@@ -12,7 +12,12 @@
   <img src="https://komarev.com/ghpvc/?username=yasir2002&style=flat-square&color=blue" alt="GitHub Profile Views"/>
   </div>
  
-<div>  
+<div>
+
+# 
+  
+<img style="width: 100%; margin-top: 50px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1D88F3&center=true&random=true&width=500&lines=Hello;Hola;Bonjour;%D8%B3%D9%84%D8%A7%D9%85;Ciao;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;%E4%BD%A0%E5%A5%BD;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7" alt="gif" />
+
   
 ## About Me: 🧔 
 With the power of technology coursing through my veins I am able to do full stack development using MERN technologies. I can't blindly configure a network yet, but I'm definitely on my way to becoming a good programmer. When I'm not busy googling Linux commands, you can find me daydreaming about beautiful terminal setups (who needs a desktop setup, anyway?).
