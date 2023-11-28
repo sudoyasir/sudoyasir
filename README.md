@@ -49,7 +49,7 @@ const yasir = {
     misc: ["Figma", "GNU/Linux"],
   },
   architecture: ["Static web applications", "Single page applications"],
-  currentFocus: "Learning how to write code with my eyes closed",
+  currentFocus: "Learning how to write code with my eyes closed xD",
 };
   ```
   
