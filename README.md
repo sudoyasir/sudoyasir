@@ -29,9 +29,10 @@ Take a look at my [Portfolio 🥂](https://yasir2002.github.io)
 const yasir = {
   code: ["JavaScript", "C++", "Node.js", "Shell scripting", "Lua"],
   askMeAbout: [
-    "web development",
-    "technology",
-    "daydreaming about code",
+    "Web Development",
+    "Shell Scripting",
+    "Technology",
+    "Daydreaming about code",
     "2D dreams with 3D screams",
     "Linux",
   ],
