@@ -105,6 +105,9 @@ const yasir = {
   </p>     
 <hr />
 
+<div align='center'>
+ <a href="https://app.daily.dev/yasirnawaz"><img src="https://api.daily.dev/devcards/v2/TZXUJNpSSSp4LGPY5aJdy.png?type=wide&r=zs6" width="652" alt="Yasir Nawaz's Dev Card"/></a>
+</div>
 
 <table>
     <tr>
