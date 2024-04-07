@@ -89,16 +89,7 @@ const yasir = {
 
 <hr />
 
-## Follow Me: 🥁
 
-> **For coding tricks and daily motivation follow me on instagram. I'm uploading amazing content daily.**
-
-<div align="center">
-<a href="https://www.instagram.com/logicwisetips/">
-    <img src="https://img.shields.io/badge/Instagram-%40LogicWiseTips-orange" height="30px" alt="gmail Badge"/>
-</a>
-</div>
-<br><br>
    <p align="center">
     <i>"Life would be more easy if I had source code."</i><br>
       <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="100px">
