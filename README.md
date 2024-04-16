@@ -1,31 +1,11 @@
-[![An image of @yasir2002's Holopin badges](https://holopin.me/yasir2002)](https://holopin.io/@yasir2002)
- 
-<div id="header" align="center">  
-    <div id="badges">
-    <a href="https://www.linkedin.com/in/yasirnawaz24/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://github.com/yasir2002">
-      <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=yasir2002&style=flat-square&color=blue" alt="GitHub Profile Views"/>
-  </div>
-<div>
-  
-<img style="width: 100%; margin-top: 50px;" src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=1D88F3&center=true&vCenter=true&random=true&width=500&lines=Hello;Hola;Bonjour;%D8%B3%D9%84%D8%A7%D9%85;Ciao;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82;%E4%BD%A0%E5%A5%BD;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF;%D9%85%D8%B1%D8%AD%D8%A8%D8%A7" alt="gif" />
 
-  
-## About Me: 🧔 
+## About Me: 🧔
 With the power of technology coursing through my veins I am able to do full stack development using MERN technologies. I can't blindly configure a network yet, but I'm definitely on my way to becoming a good programmer. When I'm not busy googling Linux commands, you can find me daydreaming about beautiful terminal setups (who needs a desktop setup, anyway?).
 
 Take a look at my [Portfolio 🥂](https://yasir2002.github.io)
 
-</div>  
-
-## More About Me: 😄 
-  
-  ```js
+## More About Me: 😄
+```javascript
 const yasir = {
   code: ["JavaScript", "C++", "Node.js", "Shell scripting", "Lua"],
   askMeAbout: [
@@ -51,53 +31,51 @@ const yasir = {
   architecture: ["Static web applications", "Single page applications"],
   currentFocus: "Learning how to write code with my eyes closed xD",
 };
-  ```
-  
+```
+</details>
 
-<div>
-
- 
-</div>  
+<details>
+<summary>Languages I'm familiar with</summary>
 
 ## Languages I'm familiar with: 🚀
+```markdown
+- React
+- Express.js
+- Material UI
+- Redux
+- CSS3
+- HTML5
+- Linux
+- MongoDB
+- MySQL
+- NodeJS
+- AWS
+- Git
+- Android
+```
+</details>
 
-<div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="expressjs" alt="expressjs" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain.svg" title="Android" **alt="Android" width="40" height="40"/>
+<details>
+<summary>Some Classics I'm Familiar with</summary>
 
-</div>
+## Some Classics I'm Familiar with: ⚡
+```markdown
+- Ubuntu
+- Lua
+- JavaScript
+- Python
+```
+</details>
 
- ## Some Classics I'm Familiar with: ⚡
- 
-  <div align="left">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-plain-wordmark.svg" title="Lua" alt="Lua" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
-  </div> 
-
-<hr />
-
-
-   <p align="center">
-    <i>"Life would be more easy if I had source code."</i><br>
-      <img alt="Light" src="https://github.com/yasir2002/box-shadow-generator/blob/master/public/1uK8.gif" width="100px">
-  </p>     
-<hr />
+<details>
+<summary>GitHub Activity</summary>
 
 <div align='center'>
  <a href="https://app.daily.dev/yasirnawaz"><img src="https://api.daily.dev/devcards/v2/TZXUJNpSSSp4LGPY5aJdy.png?type=wide&r=ro0" width="652" alt="Yasir Nawaz's Dev Card"/></a>
+</div>
+
+<div align="center">
+ <img src="https://leetcard.jacoblin.cool/yasirnawaz?theme=nord&font=Ubuntu&ext=activity" />
 </div>
 
 <table>
@@ -116,8 +94,4 @@ const yasir = {
         </td>
     </tr>
 </table>
-
-
-
-
-
+```
