@@ -15,7 +15,7 @@ Take a look at my [Portfolio 🥂](https://yasirnawaz.me)
 
 ```javascript
 const yasir = {
-  code: ["JavaScript", "C++", "TypeScript", "Python"],
+  code: ["JavaScript", "React", "TypeScript", "Next.js"],
   askMeAbout: [
     "Modern Web Development",
     "Linux Command Line",
