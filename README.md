@@ -9,7 +9,7 @@
 I'm <b>Yasir</b>,
 With the power of technology coursing through my veins, and I am able to do full stack development using MERN technologies. I can't blindly configure a network yet, but I'm definitely on my way to becoming a good programmer. When I'm not busy googling Linux commands, you can find me daydreaming about beautiful terminal setups (who needs a desktop setup, anyway?).
 
-Take a look at my [Portfolio 🥂](https://yasirnawaz.me)
+Take a look at my [Portfolio 🥂](https://sudoyasir.space)
 
 ## More About Me: 😄
 
